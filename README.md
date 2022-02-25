@@ -1,11 +1,11 @@
 
 <div align="center">
-  <h1>Oi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, seja bem-vindo. meu nome é thiago.</h1>
+  <h1>Olá, seja bem-vindo <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <p>me chamo Thiago, é um prazer.</p></h1>
 
 <!-- Apresentação -->
   
   
-- 👨🏾‍🎓  cursando o 1º semestre ciênca da computação pela unipê 
+- 👨🏾‍🎓  bacharelando em <b> Ciência da Computação </b> na unipê 
 
 - 🌱 Estudando as tecnologias : ["javascript", "css" , "html", "python", "figma"]
 <div style="display: inline_block"><br>

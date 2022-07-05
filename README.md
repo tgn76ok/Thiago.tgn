@@ -1,6 +1,6 @@
 
 <div align="center">
-  <h1>Olá, seja bem-vindo <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <p>me chamo Thiago, é um prazer.</p></h1>
+  <h1>Olá, seja bem-vindo <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"> <p>me chamo Thiago, é um prazer.</p></h1>
 
 <!-- Apresentação -->
   

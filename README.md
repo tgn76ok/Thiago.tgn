@@ -1,10 +1,6 @@
+   <img src="header.png">
 
-<div align="center">
-  <h1>Olá, seja bem-vindo 
-    <img src="https://media.giphy.com/media/26gslMAdctNhu6YnK/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed"  ALIGN=middle  ></img>
-    <p>pode me chamar de Thiago.</p></h1>
-</div>
-<!-- Apresentação -->
+
  sobre mim
  
 - 👨🏾‍🎓  bacharelando em <b> Ciência da Computação </b> na unipê 
@@ -15,7 +11,7 @@
 
  <br>
  
-  <h2 > linguagens </h2> 
+  <h2 > 💻 linguagens 💻  </h2> 
   <div align="center" display:"inline-block;">
    <img  alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    <img  alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -25,7 +21,7 @@
   <br>
  
  
- <h2> Ferramentas </h2> 
+ <h2> 🛠 Ferramentas 🛠  </h2> 
    
   <div align="center" display:"inline-block;">
     <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />

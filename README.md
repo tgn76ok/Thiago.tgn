@@ -1,37 +1,33 @@
    <img src="header.png">
 
 
- sobre mim
+ <h2>sobre mim</h2>
  
 - 👨🏾‍🎓  bacharelando em <b> Ciência da Computação </b> na unipê 
 
 
-<h1 align="center">👨🏽‍💻  Ferramentas e linguagens 👨🏽‍💻 </h1>
+<h2 align="center">  👨🏽‍💻  Ferramentas e linguagens 👨🏽‍💻 </h2>
 <img src="https://media.giphy.com/media/XHAv3GveJMXMXSumkO/giphy-downsized.gif" align="right"  height="350" width="350" > </img>
 
  <br>
  
-  <h2 > 💻 linguagens 💻  </h2> 
-  <div align="center" display:"inline-block;">
-   <img  alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-   <img  alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img  alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-   <img  alt="java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-    </div>
+  <h2 > 💻 Linguagens 💻  </h2> 
+  
+   <img  alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">|<img  alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">|<img  alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">|<img  alt="java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+   |--|--|--|--|
+   
   <br>
  
  
  <h2> 🛠 Ferramentas 🛠  </h2> 
    
-  <div align="center" display:"inline-block;">
-    <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-    <img src="https://img.icons8.com/color/48/FFFFFF/pycharm.png"/>
-    <img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>
-    <img src="https://img.icons8.com/fluency/40/000000/visual-studio-code-2019.png"/>
-    <img src="https://img.icons8.com/officel/40/000000/selenium-test-automation.png"/>
-    <img src="https://img.icons8.com/color/48/000000/trello.png"/>
-    <img src="https://img.icons8.com/color/48/000000/git.png"/>
-  </div>
+
+    
+
+<img src="https://img.icons8.com/doodle/48/000000/bash.png"/>|<img src="https://img.icons8.com/color/48/FFFFFF/pycharm.png">|<img src="https://img.icons8.com/color/48/000000/intellij-idea.png">|<img src="https://img.icons8.com/fluency/40/000000/visual-studio-code-2019.png">|<img src="https://img.icons8.com/officel/40/000000/selenium-test-automation.png">|<img src="https://img.icons8.com/color/48/000000/trello.png">|<img src="https://img.icons8.com/color/48/000000/git.png">
+|--|--|--|--|--|--|--|
+
+
 
  <br>
  <br>
@@ -46,7 +42,7 @@
 </p>
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=tgn76ok) 
+![Views](https://komarev.com/ghpvc/?username=tgn76ok) 
 
 
 
@@ -56,4 +52,6 @@
    <a href="https://api.whatsapp.com/send?phone=5583996031377" target="_blank"><img src="https://img.icons8.com/cotton/64/000000/whatsapp--v4.png" width="40px" ></a>
   <a href = "mailto:tgermanon@gmail.com" target="_blank"><img src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-gmail-social-media-justicon-flat-justicon.png" width="40px" ></a>
 </div>
- 
+
+
+![spotify-github-profile](/img/compact.svg)

@@ -16,7 +16,7 @@
  
   <h2 > 💻 Linguagens 💻  </h2> 
   
-<img  alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">|<img  alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">|<img src="https://img.icons8.com/fluency/48/000000/python.png"/>
+<img  alt="HTML" height="40" width="40" src="https://img.icons8.com/office/40/000000/c-plus-plus.png"/>|<img  alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">|<img src="https://img.icons8.com/fluency/48/000000/python.png"/>
    |--|--|--|
    <img src="https://img.icons8.com/officel/40/000000/php-logo.png"/>|<img  alt="java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">|<img src="https://img.icons8.com/doodle/48/000000/bash.png"/>
   <br>

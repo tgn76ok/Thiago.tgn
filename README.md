@@ -3,7 +3,7 @@
 <div>
  <h2>🇧🇷 Sobre mim 😁 </h2>
  
-- 👨🏽‍🎓   bacharelando em <b> Ciência da Computação </b> na unipê 
+- 👨🏽‍🎓   Bacharelando em <b> Ciência da Computação </b> na unipê 
 - 😍  Amo colocar na pratica o que aprendi, tambem adoro estudar scripts   
 - ⚽️  No tempo livre tento ficar um pouco desplugado, ler um livro ou praticar um esporte(🏄🏽 surf é meu esporte favorito🏄🏽 )
 - 🦾  A ultima area que atuei foi QA(Auality Assurance)

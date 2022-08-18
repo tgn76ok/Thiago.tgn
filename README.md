@@ -38,17 +38,16 @@
 
 
 <p align="center">
-<img width="450" align="center" src="https://github-readme-stats-defcon27.vercel.app/api?username=tgn76ok&show_icons=true&line_height=21&theme=blue-green" alt="Defcon27's Github Stats" />
-<img width="340" height="155" align="center" 
-     src="https://github-readme-stats-defcon27.vercel.app/api/top-langs/?username=tgn76ok&langs_count=6&hide=handlebars,jupyter notebook,css&theme=blue-green&line_height=27&layout=compact" />
-</p>
+<img width="600" align="center" src="https://github-readme-stats-defcon27.vercel.app/api?username=tgn76ok&show_icons=true&line_height=21&theme=blue-green" alt="Defcon27's Github Stats" />
+   
+
 
 
 ![Views](https://komarev.com/ghpvc/?username=tgn76ok) 
 
 
 
-<h2 >☎️ Meios para contatos ☎️ </h2>
+<h2 align="center" >☎️ Meios para contatos ☎️ </h2>
 <div align="center" >
    <a href="https://instagram.com/Thiago.tgn" target="_blank"><img width="210" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
    <a href="https://api.whatsapp.com/send?phone=5583996031377" target="_blank"><img width="200" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" ></a>

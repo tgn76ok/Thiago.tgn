@@ -16,18 +16,18 @@
  
   <h2 > 💻 Linguagens 💻  </h2> 
   
-<img  alt="HTML" height="40" width="40" src="https://img.icons8.com/office/40/000000/c-plus-plus.png"/>|<img  alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">|<img src="https://img.icons8.com/fluency/48/000000/python.png"/>
+<img src="https://img.icons8.com/color/48/null/c-programming.png"/>|<img  alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">|<img src="https://img.icons8.com/fluency/48/000000/python.png"/>
    |--|--|--|
-   <img src="https://img.icons8.com/officel/40/000000/php-logo.png"/>|<img  alt="java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">|<img src="https://img.icons8.com/doodle/48/000000/bash.png"/>
+   <img src="https://img.icons8.com/officel/48/000000/php-logo.png"/>|<img  alt="java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">|<img src="https://img.icons8.com/doodle/48/000000/bash.png"/>
   <br>
  
  
  <h2> 🛠 Ferramentas 🛠  </h2> 
    
 
-<img src="https://img.icons8.com/ios-filled/50/000000/github.png"/>|<img src="https://img.icons8.com/color/48/FFFFFF/pycharm.png">|<img src="https://img.icons8.com/color/48/000000/intellij-idea.png">
-|--|--|--|
-<img src="https://img.icons8.com/color/48/000000/trello.png"/>|<img src="https://img.icons8.com/color/48/000000/git.png">|<img src="https://img.icons8.com/officel/40/000000/selenium-test-automation.png">
+<img src="https://img.icons8.com/ios-filled/50/000000/github.png"/>|<img src="https://img.icons8.com/color/48/FFFFFF/pycharm.png">|<img src="https://img.icons8.com/color/48/000000/intellij-idea.png">|<img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/48/null/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-filled-tal-revivo.png"/>
+|--|--|--|--|
+<img src="https://img.icons8.com/color/48/000000/trello.png"/>|<img src="https://img.icons8.com/color/48/000000/git.png">|<img src="https://img.icons8.com/officel/40/000000/selenium-test-automation.png">|<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/null/external-linux-a-family-of-open-source-unix-like-operating-systems-based-on-the-linux-kernel-logo-shadow-tal-revivo.png"/>
 
  
  <br>

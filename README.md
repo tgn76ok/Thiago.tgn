@@ -34,8 +34,8 @@
 
 <div align="center" >
    
-<img width="550" height="250" src="https://github-readme-stats-defcon27.vercel.app/api?username=tgn76ok&show_icons=true&line_height=21&theme=blue-green" alt="Defcon27's Github Stats" />
-   <img width="450" height="250"src="https://github-readme-stats.vercel.app/api/top-langs/?username=tgn76ok&layout=compact&langs_count=7&line_height=30&theme=blue-green"/> 
+<img width="550" height="200" src="https://github-readme-stats-defcon27.vercel.app/api?username=tgn76ok&show_icons=true&line_height=21&theme=blue-green" alt="Defcon27's Github Stats" />
+   <img width="450" height="200"src="https://github-readme-stats.vercel.app/api/top-langs/?username=tgn76ok&layout=compact&langs_count=7&line_height=30&theme=blue-green"/> 
 
    
    ![Views](https://komarev.com/ghpvc/?username=tgn76ok) 

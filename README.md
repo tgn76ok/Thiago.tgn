@@ -29,21 +29,25 @@
 |--|--|--|
 <img src="https://img.icons8.com/color/48/000000/trello.png"/>|<img src="https://img.icons8.com/color/48/000000/git.png">|<img src="https://img.icons8.com/officel/40/000000/selenium-test-automation.png">
 
-
-
  
  <br>
- <br>
 
+<div align="center" >
+   
+<img width="550" height="250" src="https://github-readme-stats-defcon27.vercel.app/api?username=tgn76ok&show_icons=true&line_height=21&theme=blue-green" alt="Defcon27's Github Stats" />
+   <img width="450" height="250"src="https://github-readme-stats.vercel.app/api/top-langs/?username=tgn76ok&layout=compact&langs_count=7&line_height=30&theme=blue-green"/> 
 
-
-<p align="center">
-<img width="600" align="center" src="https://github-readme-stats-defcon27.vercel.app/api?username=tgn76ok&show_icons=true&line_height=21&theme=blue-green" alt="Defcon27's Github Stats" />
+   
+   ![Views](https://komarev.com/ghpvc/?username=tgn76ok) 
+   
+   
    
 
+</div>
 
 
-![Views](https://komarev.com/ghpvc/?username=tgn76ok) 
+
+
 
 
 

@@ -16,9 +16,9 @@
  
   <h2 > 💻 Linguagens 💻  </h2> 
   
-<img src="https://img.icons8.com/color/48/null/c-programming.png"/>|<img src="https://img.icons8.com/external-dygo-kerismaker/48/null/external-SQL-networking-dygo-kerismaker.png"/>|<img src="https://img.icons8.com/fluency/48/000000/python.png"/>
+<img src="https://img.icons8.com/color/40/null/c-programming.png"/>|<img src="https://img.icons8.com/external-dygo-kerismaker/40/null/external-SQL-networking-dygo-kerismaker.png"/>|<img src="https://img.icons8.com/fluency/40/000000/python.png"/>
    |--|--|--|
-   <img src="https://img.icons8.com/officel/48/000000/php-logo.png"/>|<img  alt="java" height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">|<img src="https://img.icons8.com/doodle/48/000000/bash.png"/>
+   <img src="https://img.icons8.com/officel/40/000000/php-logo.png"/>|<img  alt="java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">|<img src="https://img.icons8.com/doodle/40/000000/bash.png"/>
   <br>
  
  

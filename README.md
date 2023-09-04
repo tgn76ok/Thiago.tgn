@@ -5,8 +5,7 @@
  
 - 👨🏽‍🎓   Bacharelando em <b> Ciência da Computação </b> na unipê 
 - 😍  Amo colocar na pratica o que aprendi, também adoro estudar scripts   
-- ⚽️  No tempo livre tento ficar um pouco desplugado, ler um livro ou praticar um esporte(🏄🏽 surf é meu esporte favorito🏄🏽 )
-- 🦾  A ultima area que atuei foi em QA(Quality Assurance)
+- 🦾  A área que atuo é BACK-END QA(Quality Assurance)
 </div>
 
 <h2 align="center">  👨🏽‍💻  Ferramentas e linguagens 👨🏽‍💻 </h2>
